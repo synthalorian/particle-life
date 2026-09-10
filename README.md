@@ -46,7 +46,7 @@ moderngl>=5.8  # optional, for v2+ renderer
 
 ## License
 
-MIT
+Apache-2.0
 
 ---
 
