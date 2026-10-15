@@ -1,3 +1,5 @@
+![particle-life](.github/preview.png)
+
 # PARTICLE LIFE
 
 > Emergent artificial life from simple rules.
